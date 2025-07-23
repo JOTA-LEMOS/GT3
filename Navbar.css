@@ -1,0 +1,151 @@
+w_+.navbar a, .navbar a:hover, .navbar a:focus {
+  color: rgb(54, 79, 119) !important;
+}
+  .navbar {
+    background-color: black;
+    height: 80px;
+  }
+  .navbar-brand img {
+    height: 110px;
+    width: auto;
+  }
+  .navbar-nav .nav-link {
+    color: rgb(17, 106, 250) !important;
+
+    text-align: center;
+  }
+  .navbar-nav {
+    margin: auto;
+  }
+  .navbar-toggler {
+    border-color: white;
+  }
+  .navbar-toggler-icon {
+    background-color: white;
+  }
+  
+
+
+
+.h1{
+  text-align: center;
+  padding-top:10px;
+}
+
+.section-title {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+.custom-card {
+      margin-bottom: 2rem;
+    }
+.sprint-column {
+      padding-right: 2rem;
+    }
+.endurance-column {
+      padding-left: 2rem;
+    }
+
+   
+    .border-left-primary {
+      border-left: 4px solid #4e73df !important;
+    }
+
+    .border-left-success {
+      border-left: 4px solid #1cc88a !important;
+    }
+
+    .border-left-info {
+      border-left: 4px solid #36b9cc !important;
+    }
+
+    .border-left-warning {
+      border-left: 4px solid #f6c23e !important;
+    }
+    .border-left-danger {
+      border-left: 4px solid #e74a3b !important;
+    }
+
+    .card {
+      border: none;
+      border-radius: 0.35rem;
+      box-shadow: 0 0.15rem 1.75rem 0 rgba(58, 59, 69, 0.15);
+    }
+
+    .text-uppercase {
+      font-size: 0.75rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+    }
+
+    .progress {
+      height: 0.75rem;
+    }
+
+    .card-header h6 {
+      font-size: 1rem;
+    }
+
+    .progress-label {
+      font-size: 0.875rem;
+      font-weight: 600;
+    }    
+
+     .card-custom {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 10;
+    width: 100%;
+    max-width:320px }
+  
+
+    .card-header-custom {
+      background-color: #ffffff;
+      padding: 0;
+      display: flex;
+      align-items: center;
+      height: 65px;
+    }
+    .car-number {
+      background-color: #e77b36;
+      color: black;
+      padding: 10px;
+      font-weight: bold;
+      text-align: center;
+      width: 60px;
+    }
+    .bronze {
+      background-color: #e77b36;
+      color: black;
+      font-size: 12px;
+      text-align: center;
+      padding: 2px;
+    }
+    .team-name {
+      font-weight: bold;
+      font-size: 1.2rem;
+      padding-left: 10px;
+    }
+    .car-model {
+      background-color: #2e2e2e;
+      color: white;
+      padding: 5px 10px;
+      display: flex;
+      align-items: center;
+    }
+    .flags {
+      margin-right: 10px;
+    }
+    .driver-list {
+      font-weight: bold;
+      padding: 10px;
+      line-height: 1.5rem;
+    }
+    .gt-logo {
+      position: absolute;
+      bottom: 10px;
+      right: 10px;
+      width: 30px;
+      height: auto;
+    }

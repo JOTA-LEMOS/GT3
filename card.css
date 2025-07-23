@@ -1,0 +1,293 @@
+    .card-gt3 {
+      width: 360px;
+      margin: 20px auto;
+      padding:0%;
+      font-family: Arial, sans-serif;
+      background-color: white;
+      border: 1px solid black;
+    }
+
+    .card-header-custom {
+      display: flex;
+      align-items: center;
+      padding: 5px 10px;
+      font-weight: bold;
+      background-color: white;
+      overflow: hidden;   
+    }
+
+    .pos-box {
+      background:#d9dadc;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #000;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);   
+    }
+    
+    
+    .pos-box-GOLD {
+      background: #fcff34;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #000;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+         
+    }
+    .GOLD {
+      font-size: 12px;
+      background-color: #fcff34;
+      border-top: #000 0.5px solid;
+    }
+    .SILVER {
+      font-size: 12px;
+      background-color: #4c6ec3;
+      border-top: #000 0.5px solid;
+      color: white;
+    }
+    .pos-box-SILVER  {
+      background: #4c6ec3;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #fff;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    
+    }
+    
+    .BRONZE {
+      font-size: 12px;
+      background-color: #e77b36;
+      border-top:#000 0.5px solid;
+
+    }
+    .pos-box-BRONZE {
+      background: #e77b36;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #000;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    
+    }
+    
+    .PRO {
+      font-size: 12px;
+      background-color:white;
+      border-top:#000 0.5px solid;
+    }
+    .pos-box-PRO{
+      background:white;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #000;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .PRO-AM {
+      font-size: 12px;
+      background-color:black;
+    }
+    
+    .pos-box-PRO-AM {
+      background:black;
+      font-size: 24px;
+      text-align: center; 
+      color:white;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    
+    .AM{
+      font-size: 12px;
+      background-color:rgb(233, 13, 13);
+      
+    }
+    .pos-box-AM{
+      background:red;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: white;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+    
+    .SILVER-AM{
+      font-size: 12px;
+      background-color: white;
+      border-top: #000 0.5px solid;
+      color:#4c6ec3;
+    }
+    .pos-box-SILVER-AM {
+      background: #4c6ec3;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #fff;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    
+    }
+
+    
+    .GTD{
+      font-size: 12px;
+      background-color: green;
+      border-top: #000 0.5px solid;
+      color:white;
+    }
+    .pos-box-GTD {
+      background: green;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #fff;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    
+    }
+  
+    .GTD-PRO{
+      font-size: 12px;
+      background-color: red;
+      border-top: #000 0.5px solid;
+      color:white;
+    }
+    .pos-box-GTD-PRO {
+      background: red;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #fff;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    
+    }
+
+    .LMGT3{
+      font-size: 12px;
+      background-color: orange;
+      border-top: #000 0.5px solid;
+      color:white;
+    }
+    .pos-box-LMGT3 {
+      background: orange;
+      border: #000 0.5px solid;
+      font-size: 24px;
+      text-align: center; 
+      color: #fff;
+      width: 80px;
+      height: 64px;
+      align-items: center;
+      justify-content: center;
+      margin-right: 10px;
+      position: relative;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);    
+    }
+
+    
+    
+   
+    .team-name {
+      font-size: 20px;
+      position: relative;
+      margin-left:6%;
+      text-align: center;
+    }
+
+    .car-model-bar {
+      background: #000;
+      color: white;
+      padding: 4px 10px;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+    }
+
+    .car-model-bar img {
+      width: 24px;
+      height: auto;
+      margin-right: 8px;
+    }
+
+    .car-image {
+      width: 100%;
+      height: auto;
+    }
+
+    .driver-names {
+      padding: 12px;
+      font-weight: bold;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .logo-box {
+      padding: 5px 10px;
+      text-align: right;
+    }
+
+    .logo-box img {
+      width: 80px;
+      height: auto;
+    }
+    .championship-logo {
+      text-align: center;
+      margin-top: 10px;
+      margin-right: 10px;
+      
+    }
